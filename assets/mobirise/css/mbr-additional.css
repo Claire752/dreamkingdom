@@ -609,3 +609,10 @@ h6,
 #menu-7 .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
+#msg-box6-9 .mbr-section-title,
+#msg-box6-9 .lead p {
+  color: #fff;
+}
+#form1-a .form-control-label {
+  color: #232323;
+}
